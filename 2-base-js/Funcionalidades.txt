@@ -1,0 +1,14 @@
+Como usuario, quiero informar que vacuna me administraron y guardarla en base de datos para informar que vacuna ya se uso 
+Como usuario, quiero informar que dosis me administraron y guardarla en la base de datos para informar que vacuna ya se uso
+Como usuarui, quiero informar en que fecha me administraron la dosis para guardarla en la base de datos
+
+Como administrador, quiero filtrar las vacunas usadas para tener un informe mas limpio
+Como administrador, mostrar y poder eliminar la lista de vacunas ya usadas para tener un control del informe de vacunas
+
+
+
+
+
+
+
+https://drive.google.com/drive/folders/1YNEE9mTZ5-aVKzGEWnNWSzzI0WorA_oo?usp=sharing
